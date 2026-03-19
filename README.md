@@ -42,6 +42,6 @@ Sistema integral para la planeación, ejecución, evaluación y seguimiento del 
 ## Autor
  
 **Holman Moreno** — HSEQ Coordinator · Petroleum Engineer
-📧 hmoreno@pbi.com.co
+📧 holman3001@gmail.com
 🔗 [github.com/induccionhse](https://github.com/induccionhse)
  
